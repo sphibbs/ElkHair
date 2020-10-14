@@ -1,0 +1,13 @@
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\obj\Debug\netcoreapp3.1\NetCoreTelemetryTest.csprojAssemblyReference.cache
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\obj\Debug\netcoreapp3.1\NetCoreTelemetryTest.AssemblyInfoInputs.cache
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\obj\Debug\netcoreapp3.1\NetCoreTelemetryTest.AssemblyInfo.cs
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\obj\Debug\netcoreapp3.1\NetCoreTelemetryTest.csproj.CoreCompileInputs.cache
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\bin\Debug\netcoreapp3.1\NetCoreTelemetryTest.exe
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\bin\Debug\netcoreapp3.1\NetCoreTelemetryTest.deps.json
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\bin\Debug\netcoreapp3.1\NetCoreTelemetryTest.runtimeconfig.json
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\bin\Debug\netcoreapp3.1\NetCoreTelemetryTest.runtimeconfig.dev.json
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\bin\Debug\netcoreapp3.1\NetCoreTelemetryTest.dll
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\bin\Debug\netcoreapp3.1\NetCoreTelemetryTest.pdb
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\obj\Debug\netcoreapp3.1\NetCoreTelemetryTest.dll
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\obj\Debug\netcoreapp3.1\NetCoreTelemetryTest.pdb
+C:\Users\scottph\source\repos\NetCoreTelemetryTest\NetCoreTelemetryTest\obj\Debug\netcoreapp3.1\NetCoreTelemetryTest.genruntimeconfig.cache
